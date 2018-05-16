@@ -1,0 +1,443 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.11)  15 MAY 2018 21:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Konsta_Kutvonen_report2.tex
+(./Konsta_Kutvonen_report2.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./Konsta_Kutvonen_report2.aux)
+\openout1 = `Konsta_Kutvonen_report2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<closedstrawberry.jpg, id=10, 668.4975pt x 668.4975pt>
+File: closedstrawberry.jpg Graphic file (type jpg)
+<use closedstrawberry.jpg>
+Package pdftex.def Info: closedstrawberry.jpg  used on input line 20.
+(pdftex.def)             Requested size: 199.16353pt x 199.16928pt.
+<nopixelstrawberry.jpg, id=11, 668.4975pt x 668.4975pt>
+File: nopixelstrawberry.jpg Graphic file (type jpg)
+<use nopixelstrawberry.jpg>
+Package pdftex.def Info: nopixelstrawberry.jpg  used on input line 21.
+(pdftex.def)             Requested size: 199.16353pt x 199.16928pt.
+
+Overfull \hbox (84.14925pt too wide) in paragraph at lines 20--22
+[][] [] 
+ []
+
+[2 <./closedstrawberry.jpg> <./nopixelstrawberry.jpg>]
+<blurredhouse51.jpg, id=16, 1118.1775pt x 837.1275pt>
+File: blurredhouse51.jpg Graphic file (type jpg)
+<use blurredhouse51.jpg>
+Package pdftex.def Info: blurredhouse51.jpg  used on input line 25.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<blurredhouse101.jpg, id=17, 1118.1775pt x 837.1275pt>
+File: blurredhouse101.jpg Graphic file (type jpg)
+<use blurredhouse101.jpg>
+Package pdftex.def Info: blurredhouse101.jpg  used on input line 26.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<blurredhouse151.jpg, id=18, 1118.1775pt x 837.1275pt>
+File: blurredhouse151.jpg Graphic file (type jpg)
+<use blurredhouse151.jpg>
+Package pdftex.def Info: blurredhouse151.jpg  used on input line 27.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<blurredhouse201.jpg, id=19, 1118.1775pt x 837.1275pt>
+File: blurredhouse201.jpg Graphic file (type jpg)
+<use blurredhouse201.jpg>
+Package pdftex.def Info: blurredhouse201.jpg  used on input line 28.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<blurredhouse301.jpg, id=20, 1118.1775pt x 837.1275pt>
+File: blurredhouse301.jpg Graphic file (type jpg)
+<use blurredhouse301.jpg>
+Package pdftex.def Info: blurredhouse301.jpg  used on input line 29.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+
+Overfull \hbox (113.25514pt too wide) in paragraph at lines 24--30
+[] []
+ []
+
+
+Overfull \hbox (113.25514pt too wide) in paragraph at lines 24--30
+[] []
+ []
+
+[3 <./blurredhouse51.jpg> <./blurredhouse101.jpg> <./blurredhouse151.jpg> <./bl
+urredhouse201.jpg> <./blurredhouse301.jpg>]
+<laplace51.jpg, id=24, 1118.1775pt x 837.1275pt>
+File: laplace51.jpg Graphic file (type jpg)
+<use laplace51.jpg>
+Package pdftex.def Info: laplace51.jpg  used on input line 33.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<laplace101.jpg, id=26, 1118.1775pt x 837.1275pt>
+File: laplace101.jpg Graphic file (type jpg)
+<use laplace101.jpg>
+Package pdftex.def Info: laplace101.jpg  used on input line 34.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<laplace151.jpg, id=27, 1118.1775pt x 837.1275pt>
+File: laplace151.jpg Graphic file (type jpg)
+<use laplace151.jpg>
+Package pdftex.def Info: laplace151.jpg  used on input line 35.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<laplace201.jpg, id=28, 1118.1775pt x 837.1275pt>
+File: laplace201.jpg Graphic file (type jpg)
+<use laplace201.jpg>
+Package pdftex.def Info: laplace201.jpg  used on input line 36.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<laplace301.jpg, id=29, 1118.1775pt x 837.1275pt>
+File: laplace301.jpg Graphic file (type jpg)
+<use laplace301.jpg>
+Package pdftex.def Info: laplace301.jpg  used on input line 37.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+
+Overfull \hbox (113.25514pt too wide) in paragraph at lines 32--38
+[] []
+ []
+
+
+Overfull \hbox (113.25514pt too wide) in paragraph at lines 32--38
+[] [] 
+ []
+
+[4 <./laplace51.jpg> <./laplace101.jpg> <./laplace151.jpg> <./laplace201.jpg> <
+./laplace301.jpg>]
+<zerocross51.jpg, id=38, 1118.1775pt x 837.1275pt>
+File: zerocross51.jpg Graphic file (type jpg)
+<use zerocross51.jpg>
+Package pdftex.def Info: zerocross51.jpg  used on input line 40.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<zerocross101.jpg, id=39, 1118.1775pt x 837.1275pt>
+File: zerocross101.jpg Graphic file (type jpg)
+<use zerocross101.jpg>
+Package pdftex.def Info: zerocross101.jpg  used on input line 41.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<zerocross151.jpg, id=40, 1118.1775pt x 837.1275pt>
+File: zerocross151.jpg Graphic file (type jpg)
+<use zerocross151.jpg>
+Package pdftex.def Info: zerocross151.jpg  used on input line 42.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<zerocross201.jpg, id=41, 1118.1775pt x 837.1275pt>
+File: zerocross201.jpg Graphic file (type jpg)
+<use zerocross201.jpg>
+Package pdftex.def Info: zerocross201.jpg  used on input line 43.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+<zerocross301.jpg, id=42, 1118.1775pt x 837.1275pt>
+File: zerocross301.jpg Graphic file (type jpg)
+<use zerocross301.jpg>
+Package pdftex.def Info: zerocross301.jpg  used on input line 44.
+(pdftex.def)             Requested size: 228.01646pt x 170.71652pt.
+
+Overfull \hbox (45.87221pt too wide) in paragraph at lines 39--45
+[]\OT1/cmr/m/n/10 House with zero cross-ing ap-plied []
+ []
+
+
+Overfull \hbox (126.85512pt too wide) in paragraph at lines 39--45
+[] []
+ []
+
+
+Overfull \hbox (126.85512pt too wide) in paragraph at lines 39--45
+[] [] 
+ []
+
+[5 <./zerocross51.jpg> <./zerocross101.jpg> <./zerocross151.jpg> <./zerocross20
+1.jpg> <./zerocross301.jpg>] [6]
+<dpimage.jpg, id=49, 668.4975pt x 668.4975pt>
+File: dpimage.jpg Graphic file (type jpg)
+<use dpimage.jpg>
+Package pdftex.def Info: dpimage.jpg  used on input line 54.
+(pdftex.def)             Requested size: 341.43924pt x 341.43306pt.
+
+Overfull \hbox (3.23923pt too wide) in paragraph at lines 54--56
+[]
+ []
+
+<mostred.jpg, id=50, 668.4975pt x 668.4975pt>
+File: mostred.jpg Graphic file (type jpg)
+<use mostred.jpg>
+Package pdftex.def Info: mostred.jpg  used on input line 57.
+(pdftex.def)             Requested size: 341.43924pt x 341.43306pt.
+
+Overfull \hbox (18.23923pt too wide) in paragraph at lines 57--59
+[][]
+ []
+
+[7 <./dpimage.jpg>] [8 <./mostred.jpg>]
+<mairport175x575.jpg, id=58, 566.115pt x 503.8825pt>
+File: mairport175x575.jpg Graphic file (type jpg)
+<use mairport175x575.jpg>
+Package pdftex.def Info: mairport175x575.jpg  used on input line 62.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+<mairport175x700.jpg, id=59, 566.115pt x 503.8825pt>
+File: mairport175x700.jpg Graphic file (type jpg)
+<use mairport175x700.jpg>
+Package pdftex.def Info: mairport175x700.jpg  used on input line 63.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+<mairport100x575.jpg, id=60, 566.115pt x 503.8825pt>
+File: mairport100x575.jpg Graphic file (type jpg)
+<use mairport100x575.jpg>
+Package pdftex.def Info: mairport100x575.jpg  used on input line 64.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+<mairport225x400.jpg, id=61, 566.115pt x 503.8825pt>
+File: mairport225x400.jpg Graphic file (type jpg)
+<use mairport225x400.jpg>
+Package pdftex.def Info: mairport225x400.jpg  used on input line 65.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+
+Overfull \hbox (91.79063pt too wide) in paragraph at lines 61--66
+\OT1/cmr/m/n/10 Here are some of the air-port im-ages with the Canny al-go-rith
+m. []
+ []
+
+
+Overfull \hbox (159.34268pt too wide) in paragraph at lines 61--66
+[] [] [] 
+ []
+
+[9 <./mairport175x575.jpg> <./mairport175x700.jpg> <./mairport100x575.jpg> <./m
+airport225x400.jpg>]
+<hmairport50.jpg, id=65, 566.115pt x 503.8825pt>
+File: hmairport50.jpg Graphic file (type jpg)
+<use hmairport50.jpg>
+Package pdftex.def Info: hmairport50.jpg  used on input line 68.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+<hmairport80.jpg, id=66, 566.115pt x 503.8825pt>
+File: hmairport80.jpg Graphic file (type jpg)
+<use hmairport80.jpg>
+Package pdftex.def Info: hmairport80.jpg  used on input line 69.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+<hmairport100.jpg, id=67, 566.115pt x 503.8825pt>
+File: hmairport100.jpg Graphic file (type jpg)
+<use hmairport100.jpg>
+Package pdftex.def Info: hmairport100.jpg  used on input line 70.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+<hmairport110.jpg, id=68, 566.115pt x 503.8825pt>
+File: hmairport110.jpg Graphic file (type jpg)
+<use hmairport110.jpg>
+Package pdftex.def Info: hmairport110.jpg  used on input line 71.
+(pdftex.def)             Requested size: 159.83276pt x 142.26378pt.
+
+Overfull \hbox (36.8183pt too wide) in paragraph at lines 67--73
+[]\OT1/cmr/m/n/10 Here are Hough lines with 50, 80, 100 and 110. []
+ []
+
+
+Overfull \hbox (159.34268pt too wide) in paragraph at lines 67--73
+[] [] []
+ []
+
+[10 <./hmairport50.jpg> <./hmairport80.jpg> <./hmairport100.jpg> <./hmairport11
+0.jpg>] [11]
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 s = cv2.imread('strawberries-binary.pbm', cv2.IMREAD_GRAYSCA
+LE)/255[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 erosion = cv2.dilate(cv2.erode(s, kernel, iterations=1), ker
+nel, iterations=1)[] 
+ []
+
+[12]
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 # blr = blurit(blurit(blurit(blurit(blurit(b, 11), 51), 111)
+, 151), 201)[] 
+ []
+
+
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 plt.imsave("laplace51.jpg", clip(laplace51 + 0.5)*255, cmap=
+plt.cm.gray)[] 
+ []
+
+
+Overfull \hbox (43.49661pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 plt.imsave("laplace101.jpg", clip(laplace101 + 0.5)*255, cma
+p=plt.cm.gray)[] 
+ []
+
+
+Overfull \hbox (43.49661pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 plt.imsave("laplace151.jpg", clip(laplace151 + 0.5)*255, cma
+p=plt.cm.gray)[] 
+ []
+
+
+Overfull \hbox (43.49661pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 plt.imsave("laplace201.jpg", clip(laplace201 + 0.5)*255, cma
+p=plt.cm.gray)[] 
+ []
+
+
+Overfull \hbox (43.49661pt too wide) in paragraph at lines 300--300
+[]\OT1/cmtt/m/n/10 plt.imsave("laplace301.jpg", clip(laplace201 + 0.5)*255, cma
+p=plt.cm.gray)[] 
+ []
+
+[13] [14]
+Overfull \hbox (69.74638pt too wide) in paragraph at lines 300--300
+[]                \OT1/cmtt/m/n/10 dp[i][j] = dp[i-1][j] + A[i][j] + (dp[i][j -
+ 1] - dp[i-1][j-1])[] 
+ []
+
+[15] [16] (./Konsta_Kutvonen_report2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1592 strings out of 492649
+ 24036 string characters out of 6129622
+ 87723 words of memory out of 5000000
+ 5452 multiletter control sequences out of 15000+600000
+ 8102 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,531b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Konsta_Kutvonen_report2.pdf (16 pages, 5291472 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+
